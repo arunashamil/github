@@ -5,7 +5,7 @@ def lightUp(number, period):
     time.sleep(period)
     GPIO.output(number, 0)
 
-lightUp(1,1)
+lightUp(1,1) #ooooo 
 
 print ("------------------------------------------------------")
 
