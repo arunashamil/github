@@ -6,7 +6,7 @@ def lightUp(number, period):
     GPIO.output(number, 0)
 
 lightUp(1,1) #ooooo 
-
+#jjjjjjj
 print ("------------------------------------------------------")
 
 def blink(number, blinkCount, blinkPeriod):
