@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 leds = [21, 20, 16, 12, 7, 8, 25, 24]
 dac = [26, 19, 13, 6, 5, 11, 9, 10]
-troykaModule = 17
+troykaModule = 17 #Приветики! Как дела?
 comparator = 4
 
 GPIO.setmode(GPIO.BCM)
